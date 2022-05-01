@@ -1,5 +1,5 @@
 // Using an Array Create a program that reads in 5 names from the console.  It then prints out "Hello <name>" for all the names entered
-/*
+
 let names = [];
 console.log("Enter 5 names.");
 
@@ -75,7 +75,7 @@ if (counter > 0)
 {
     console.log("The number is not a duplicate")
 }
-*/
+
 
 //Using a List, write a program stores words read from console, until the word "stop" is entered.  
 //It then outputs the words entered in reverse order.
